@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+input,select,button{
+    display:block;
+    width:100%;
+    margin-top:10px;
+    border-radius: 3px;
+    font-size: 30px;
+    padding:10px;
+}
+
+.trans-div-inner{
+    padding-top: 10px;
+    border-top-color: black;
+    border-top-style: solid;
+    border-top-width: 2px;
+}
+.btn{
+    width: 100%;
+    font-size: 30px;
+}
